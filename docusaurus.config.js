@@ -112,7 +112,7 @@ const config = {
         logo: {
           alt: 'kessoku',
           src: 'img/ksk.png',
-          width: '192',
+          width: '300',
           height: 'auto',
         },
         copyright: `Kessoku DAO ©`,
