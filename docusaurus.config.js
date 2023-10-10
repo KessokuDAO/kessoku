@@ -69,13 +69,6 @@ const config = {
         style: 'dark',
         links: [
           {
-            items: [
-                {
-                   html: `
-                      <img src="https://lanyard.cnrad.dev/api/873803230042263563?idleMessage=doing%20something%20else..."  alt="Discord Presence"></img>
-                      `,
-                },
-          ],
           },
           {},
           {
@@ -99,14 +92,7 @@ const config = {
           ],
           },
           {},
-          { 
-            items: [
-                {
-                html: `
-                   <img src="https://lanyard.cnrad.dev/api/462592550402916352?idleMessage=:Building%20something..."  alt="Discord Presence"></img>
-                   `,
-                 },
-          ],
+          {
           },
         ],
         logo: {
